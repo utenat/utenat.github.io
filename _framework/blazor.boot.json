@@ -8,8 +8,8 @@
   "resources": {
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-6RRoYeDP3d0xabXmcCMF66wXeJlXVPem28Trs8sQiis=",
-      "Microsoft.AspNetCore.Components.dll": "sha256-pzJWRrnnhGeXC3zPxFiAzgUCxtM4XE6DaXfXGtQKs\/8=",
-      "Microsoft.AspNetCore.Components.Web.dll": "sha256-MtAycw6E7J5AejM2LBXAf7BLuwsG\/2Cl7\/5G9LSM7g4=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-hoJknogL3MM3201jCVHfELlOMqNc1GFKAWlJxbzzrOU=",
+      "Microsoft.AspNetCore.Components.Web.dll": "sha256-EvUgwRfKluDuBrhnCcPu9vf6qC3gr+kx5yIBPIL1iow=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-QGnG94TYvdo+SovEL0+ACj38TWKN0sV2lmZ\/AayZ3z0=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-zhFtW4kE16TdrpPne9I1Cu9o0KYzrS50VE9MVSifJg4=",
       "Microsoft.Extensions.Configuration.dll": "sha256-QPR+1IXNcA28b\/gXw3uZ8aRigHIZUJ1KWSH02kkCg7Q=",
@@ -27,16 +27,16 @@
       "System.ComponentModel.dll": "sha256-a+EnG9OuIPBgA8suvEMwGhNOTBHhfumoExls9uIj\/fc=",
       "System.Linq.dll": "sha256-sBAckY8AamJSXKe6u4HYatGAfd2UEUHj1Ov0h8waabA=",
       "System.Memory.dll": "sha256-ZASzkM2LzpvIPSQ4b6pDWF2Yh4DUgR0p5n3uAzWgZ6g=",
-      "System.Private.CoreLib.dll": "sha256-v29DA7x73qOgUDAoa7vCOJyAhfPek0iZ\/i8AwFmgecg=",
+      "System.Private.CoreLib.dll": "sha256-BywVfZBwtPfxj5SPFt02rn+Jwn\/JGwRC9kg4ZmhVXZ8=",
       "System.Private.Runtime.InteropServices.JavaScript.dll": "sha256-8dZl3cZ6\/73vUG+MVO2HC70ARn+f6SYNX7WzjZffs4g=",
       "System.Private.Uri.dll": "sha256-QLxvnAGkJLIABKn3muFqIDhj5W96ar034F4H+Q81OIY=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-I9dnbWqqCBzLob46RNl8X\/n3shsqYGg6HGTjAwQdk6w=",
-      "System.Runtime.dll": "sha256-QVPDF4WXeOw6QN9dOqINARCh8wKDvqNPdU8eIQi7rEk=",
+      "System.Runtime.dll": "sha256-cjvw3aeRyaR0OL0\/nfrKE7O7AMgBSRga7b6hjyz5HKc=",
       "System.Text.Encodings.Web.dll": "sha256-n1cAxytitPhPEBsi0YEEG5DjTcerMVAQFIa5+U0sBfE=",
       "System.Text.Json.dll": "sha256-GUYPuxHsQFyoaJj6U8lOKXhjKU8Q8FkLtWRgQzRWDNw=",
       "System.Text.RegularExpressions.dll": "sha256-M7PDHt3OWWN\/Xj5WwyAkXeGtZGVTFQr8YWBmnAdfa+4=",
       "System.Threading.dll": "sha256-nDIqwxxGKuN20FgEUHUhU5Bbs0NI2UhSJIx1aqpjW1U=",
-      "Utenat.dll": "sha256-okcvKclnAMEAqP7dFynA4YTe8tFY2qk+KZrClHtU6gE="
+      "Utenat.dll": "sha256-GXRxIOXb0pFSPFh54SMZq\/1wtl+o6KoXB1jlzDm+Myo="
     },
     "extensions": null,
     "lazyAssembly": null,
